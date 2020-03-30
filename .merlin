@@ -1,0 +1,16 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/@ahrefs/bs-emotion-ppx/bin/bs-emotion-ppx
+FLG -ppx '/Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/bs-platform/lib/ocaml
+B /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -open Belt
+FLG -w -30-40+6+7+27+32..39+44+45+101-44
+S /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/@ahrefs/bs-emotion/lib/ocaml
+B /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/@ahrefs/bs-emotion/lib/ocaml
+S /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/reason-react/lib/ocaml
+B /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/reason-react/lib/ocaml
+S /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/re-classnames/lib/ocaml
+B /Users/mandalarian/Downloads/ahrefs-bs-emotion-examples/node_modules/re-classnames/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}
